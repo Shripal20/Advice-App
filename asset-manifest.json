@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Advice-App/static/css/main.8b2d765c.css",
+    "main.js": "/Advice-App/static/js/main.f682a704.js",
+    "static/media/jonatan-pie-h8nxGssjQXs-unsplash.jpg": "/Advice-App/static/media/jonatan-pie-h8nxGssjQXs-unsplash.afcd2caa9d8bfd47ced3.jpg",
+    "index.html": "/Advice-App/index.html",
+    "main.8b2d765c.css.map": "/Advice-App/static/css/main.8b2d765c.css.map",
+    "main.f682a704.js.map": "/Advice-App/static/js/main.f682a704.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b2d765c.css",
+    "static/js/main.f682a704.js"
+  ]
+}
